@@ -1,0 +1,31 @@
+
+
+.question{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin:10px 0 4px 0;
+    word-spacing: 2px;
+    
+}
+
+.ans{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    text-align: justify; 
+    /* text-justify: inter-word; */
+    word-spacing: 4px;
+    margin: 0 0 20px 0;
+}
+
+.screen{
+    width:90%;
+    max-width: 800px;
+    margin:auto;
+}
+.heading{
+    text-align: center;
+    text-decoration:underline ;
+    font-size: 16px;
+    margin-bottom: 85px;
+
+}

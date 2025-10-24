@@ -1,0 +1,38 @@
+table{
+    width: 650px;
+    border-collapse:collapse ;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+a {
+  color: rgb(187, 20, 20);
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  
+  text-align: middle;
+}
+
+a:hover {
+  color: orange;
+  text-decoration: underline;
+}
+
+th{
+    border:2px solid rgb(214, 210, 210);
+    padding:10px;
+    background-color: #013A33;
+    color:white;
+}
+
+td{
+
+    border:2px solid rgb(214, 210, 210);
+    padding:10px;
+    
+}

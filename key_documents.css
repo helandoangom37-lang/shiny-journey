@@ -1,0 +1,27 @@
+.link{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    width:90%;
+    max-width: 800px;
+    margin:auto;
+    
+}
+
+a {
+  color:#013A33;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  background-color:gainsboro;
+  padding: 20px;
+  text-align: left;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+a:hover {
+  color: #012823;
+  text-decoration: underline;
+}
